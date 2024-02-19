@@ -1,0 +1,13 @@
+/* Hoja de estilo personalizada */
+/* CSS: cascading style sheet */
+
+/* selector de etiqueta */
+body {
+    background-color:#B0A8B9;
+    color: #4B4453;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+main{
+    text-align: center;
+}
